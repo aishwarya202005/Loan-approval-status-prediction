@@ -6,6 +6,8 @@ Dataset- The data has 615 rows and 13 columns.
 Use case: Banks and financial institutions
 Purpose: To decide whether the applicant’s profile is relevant to be granted with loan or not, using Machine Learning to ease their work and predict whether the candidate’s profile is relevant or not using key features like Marital Status, Education, Applicant Income, Credit History, etc.
 
+#### Download dataset from Kaggle - [link](https://www.kaggle.com/code/alfredkondoro/uni-bi-multivariate-analysis-loan-prediction/input)
+
 ### Dataset description
 The dataset contains 13 features : 
 1) Loan - A unique id 
